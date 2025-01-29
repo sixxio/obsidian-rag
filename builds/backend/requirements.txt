@@ -1,0 +1,20 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==2.3.1+cpu
+langchain
+langchain_community
+langchain_qdrant
+langchain_groq
+langchain_mistralai
+markdown
+unstructured
+FlagEmbedding
+nltk
+langchain-text-splitters
+fastapi
+pydantic
+uvicorn
+pydantic-settings
+socksio
+langchain-gigachat
+mlflow
+boto3

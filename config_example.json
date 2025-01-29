@@ -1,0 +1,9 @@
+{
+    "server": "your.server.ip.address",
+    "server_port": 8399,
+    "local_port": 1080,
+    "local_address": "0.0.0.0",
+    "password": "your-secure-password",
+    "timeout": 1000,
+    "method": "aes-256-gcm"
+}
